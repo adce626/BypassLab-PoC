@@ -1,4 +1,4 @@
-# Payment‑Amount 403 Bypass Techniques — Practical Playbook (English, professional, no fluff)
+# Payment‑Amount 403 Bypass Techniques — Practical Playbook 
 
 **Purpose:** practical, attack‑oriented checklist and playbook to test for payment‑amount tampering and 403 bypasses in payment endpoints. Designed for authorized testing / CTF / staging only. Focus on high‑value checks, clear PoCs, what to observe, and mitigations. Reproducible, minimal proofs are emphasized.
 
