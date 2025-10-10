@@ -1,4 +1,4 @@
-# SSTI Bypass Checklist — Practical Playbook & PoC (English, professional, no fluff)
+# SSTI Bypass Checklist — Practical Playbook & PoC 
 
 **Scope & warning:** for authorized testing, CTFs or staging only. Do not use against production systems without explicit permission. This is a tactical checklist: how to detect SSTI, how to bypass basic filters, engine‑specific pivoting, OOB (blind) verification, and minimal PoCs (curl/Burp).
 
