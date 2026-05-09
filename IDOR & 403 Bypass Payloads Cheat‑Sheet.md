@@ -331,11 +331,4 @@ curl -X POST -H "Content-Type: application/json" -d $'{"user":{"id":"123​"}}' 
 
 ---
 
-## Next steps I can prepare immediately
 
-Choose one and I will prepare it now:
-
-* A downloadable `payloads.txt` file that contains the payload lines above (ready for Burp Intruder).
-* A Python script that automatically tests a set of mutations against a given endpoint (CTF/testing only).
-
-Tell me which one you want and I will produce it.
